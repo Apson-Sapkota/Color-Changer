@@ -1,0 +1,11 @@
+h1{
+    font : 30px;
+    color:red;
+}
+p{
+    color:blue;
+    font:30px;
+}
+.container{
+    display:flex;
+}
